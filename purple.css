@@ -1,0 +1,20 @@
+:root {
+  --bg-primary: #46344e;
+  --bg-secondary: #382a3f;
+  /* --bg-preview: rgba(29, 21, 32, 0.7); */
+  --bg-preview: rgba(54, 40, 60, 0.8);
+  --bg-preview-shadow: #2b202f;
+  --bg-btn-color: #8534a3;
+
+  /* text */
+  --text-primary: #fff;
+  --text-secondary: #eeeeee;
+  --text-link: #17a2b8;
+
+  /* shadow */
+  --shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
+
+  /* border */
+  --border-color: #1d1520;
+  --theme-dot-border: #fff;
+}

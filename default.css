@@ -434,7 +434,7 @@ textarea {
 
 @media screen and (max-width: 400px) {
   .container {
-    padding: 12px;
+    padding: 0 12px;
   }
 
   #skills {
